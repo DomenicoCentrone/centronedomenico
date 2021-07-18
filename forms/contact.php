@@ -1,4 +1,3 @@
-
 <?php
 if (isset($_POST["submit"])) {
   // Checking For Blank Fields..
@@ -26,4 +25,3 @@ if (isset($_POST["submit"])) {
     }
   }
 }
-?>
