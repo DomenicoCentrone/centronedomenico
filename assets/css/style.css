@@ -1189,3 +1189,19 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.img-prof{
+  display: block;
+  text-align: center;
+  margin-top: 5px
+}
+
+.photo-prof{
+  opacity: 30%;
+  max-width: 100px;
+  vertical-align: middle;
+}
+:hover.photo-prof{
+  transition: 1s;
+  opacity: 100%;
+}
