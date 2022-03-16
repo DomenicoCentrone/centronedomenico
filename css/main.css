@@ -5282,3 +5282,23 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+
+  @media screen and (max-width:768px) {
+    .workprof {
+     width: 60%;
+     height: 60%;  
+    }
+  }
+
+  @media screen and (max-width:768px) {
+    .navbar .navbar-nav > a.btn.btn-icon.btn-lg {
+      height: 5rem;
+      min-width: 5rem;
+      width: 5rem; }
+    .button-container .btn-default {
+      margin-right: -14px; }
+    .distacco{
+      margin-top: 80px;
+      }
+  }
